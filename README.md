@@ -6,12 +6,12 @@
 - 📫 How to reach me ...
 --->
 
-Hello there! My name's Miguel Roldão. I'm a 22 year old graduated Electronics and Telecomunications Engineer from Portugal.
+Hello there! My name's Miguel Roldão. I'm a 24 year old undergraduated Electronics and Telecomunications Engineer from Portugal, currently doing a Master's in Informatics.
 
-I love all related to electronics, computer science, music and fishkeeping.
+I love everything related to electronics, computer science, music and fishkeeping.
 So I'm glad to get involved in any project related to those topics!
 
-When I'm programing, my lenguage of choice is C, and lua for scripting.
+When I'm programing, my language of choice is C, and lua for scripting.
 As I usually work on embedded systems projects, I also know my way around assembler.
 
 If you want to contact me, write me an e-mail at miguelroldao@gmail.com
